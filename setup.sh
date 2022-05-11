@@ -24,3 +24,4 @@
  echo arpspoof -i wlan0 -t '$ap' '$t' >> /usr/bin/arp-cut &
  chmod +x /usr/bin/arp-cut
 echo "\e[32mInstallation Complete.\e[0m"
+
